@@ -8,7 +8,7 @@ int jumlah_ketebalan = sizeof(ketebalan) / sizeof(ketebalan[0]);
 int waktu[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 int jumlah_waktu = sizeof(waktu) / sizeof(waktu[0]);
 
-// JANGAN LUPA FOLLOW IG => rafi_ramdhani_
+
 
 // Fungsi untuk menghitung nilai tengah dari array
 int nilai_tengah(int arr[], int n) {
@@ -19,7 +19,7 @@ int nilai_tengah(int arr[], int n) {
     }
 }
 
-// JANGAN LUPA FOLLOW IG => rafi_ramdhani_
+
 
 int main() {
     printf("Selamat datang di program pengelasan robot!\n");
@@ -50,7 +50,7 @@ int main() {
         sleep(3);
     }
     
-// JANGAN LUPA FOLLOW IG => rafi_ramdhani_
+
 
     printf("Semua proses pengelasan selesai. Program berakhir.\n");
 
